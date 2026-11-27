@@ -1,5 +1,6 @@
-const firebaseConfig = {
-  apiKey: "AIzaSyAc4sSn9r7sHjJhVI4li5LsD47pdfpg1A0",
+
+export const firebaseConfig = {
+  apiKey: "COPIA_AQUI_LA_CLAVE_ORIGINAL_DE_FIREBASE",
   authDomain: "novalab-conalep-tlalpan-i.firebaseapp.com",
   projectId: "novalab-conalep-tlalpan-i",
   storageBucket: "novalab-conalep-tlalpan-i.firebasestorage.app",
