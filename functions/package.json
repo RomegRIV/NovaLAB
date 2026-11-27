@@ -1,0 +1,9 @@
+{
+  "name": "novalab-functions",
+  "description": "Funciones seguras de NovaLab CONALEP Tlalpan I",
+  "scripts": {"serve": "firebase emulators:start --only functions", "deploy": "firebase deploy --only functions"},
+  "engines": {"node": "20"},
+  "main": "index.js",
+  "dependencies": {"firebase-admin": "^12.7.0", "firebase-functions": "^6.1.1"},
+  "private": true
+}
